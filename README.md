@@ -9,7 +9,7 @@
 
 ## 📖 Project Overview
 
-This project focused on the **CFD analysis of missile aerodynamics**, studying various missile geometries to compute aerodynamic coefficients (lift, drag, and moment) under high-speed conditions. The primary aim was to understand the effects of shape and flow conditions on aerodynamic performance, providing insights into stability and control.
+This project focused on the **CFD analysis of missile aerodynamics**, studying a tangent ogive / cylinder body missile geometry to compute aerodynamic coefficients (normal, axial, and moment) under high-speed conditions. The primary aim was to understand the effects of using different turbulence models in RANS setting, providing insights into how the different turbulence models capture the high speed flow behaviour.
 
 ---
 
