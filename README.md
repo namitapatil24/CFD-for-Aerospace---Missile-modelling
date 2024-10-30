@@ -18,7 +18,7 @@ This project focused on the **CFD analysis of missile aerodynamics**, studying a
 1. **Create** a suitable mesh, choosing between structured or hybrid meshing approaches.
 2. **Define** solution algorithms, select appropriate turbulence models.
 4. **Analyze** simulation results, comparing findings with the provided experimental data.
-5. **Compile** findings to identify the best suitable turbulence model for supersonic flow scenario.
+5. **Compile** findings to identify the suitability of turbulence models for supersonic flow scenario.
 ---
 ## 🧪 Test Case 
 
