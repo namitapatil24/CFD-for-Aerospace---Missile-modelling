@@ -1,7 +1,7 @@
 # Computational Fluid Dynamics for Missile Aerodynamics
 
-**Project:** MSc in Aerospace Dynamics, Cranfield University  
-**Supervisor:** Dr. Zeeshan Rana and Dr Davide Di Pasquale 
+**Project:** CFD for Aerospace - Assignment project 
+**Supervisors:** Dr. Zeeshan Rana and Dr Davide Di Pasquale 
 
 ---
 
