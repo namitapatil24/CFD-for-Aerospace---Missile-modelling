@@ -1,8 +1,6 @@
 # Computational Fluid Dynamics for Missile Aerodynamics
 
 **Project:** MSc in Aerospace Dynamics, Cranfield University  
-**Authors:** Namita Patil, Zihan Zhang, Noe Yanez Quinones, Kirsten Soans, Matthew Brown
-
 **Supervisor:** Dr. Zeeshan Rana and Dr Davide Di Pasquale 
 
 ---
@@ -136,6 +134,6 @@ For further information or questions, please feel free to reach out:
 
 ---
 
-*This project was submitted as part of the MSc in Aerospace Dynamics at Cranfield University.*
+*This project was submitted as part of the MSc in Aerospace Dynamics at Cranfield University in a group setting.*
 
 ---
